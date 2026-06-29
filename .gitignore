@@ -1,0 +1,27 @@
+# Build artifacts
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+
+# Gradle
+.gradle/
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+*.prefs
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
